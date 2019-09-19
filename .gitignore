@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/.idea/
+/src/com/qklt/test/
+/web/index.jsp
+/clock.iml
